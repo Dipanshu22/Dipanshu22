@@ -37,11 +37,11 @@
 
 <h3 align="left">Projects 🌱</h3>
 <ul align="left">
-  <li><a href="[Project Link]">Video Feed App</a> - A seamless video browsing and viewing application developed with Flutter.</li>
-  <li><a href="[Project Link]">Ampiy Crypto App</a> - Real-time cryptocurrency price tracking and investment app built with Flutter and Dart.</li>
-  <li><a href="[Project Link]">Flavor Finds - Food Discovery App</a> - Explore and discover new foods with this Flutter app.</li>
-  <li><a href="[Project Link]">Restaurant Review Analysis</a> - Sentiment analysis model to predict positive or negative restaurant reviews.</li>
-  <li><a href="[Project Link]">Pokemon Dataset Analysis</a> - Descriptive analysis and classification of Legendary Pokemon using Python and Scikit-learn.</li>
+  <li><a href="[https://github.com/Dipanshu22/Video_Feed_App]">Video Feed App</a> - A seamless video browsing and viewing application developed with Flutter.</li>
+  <li><a href="[https://github.com/Dipanshu22/Ampiy_Crypto_App]">Ampiy Crypto App</a> - Real-time cryptocurrency price tracking and investment app built with Flutter and Dart.</li>
+  <li><a href="[https://github.com/Dipanshu22/flavor_finds]">Flavor Finds - Food Discovery App</a> - Explore and discover new foods with this Flutter app.</li>
+  <li><a href="[https://github.com/Dipanshu22/RestaurantReviewUsingNLP]">Restaurant Review Analysis</a> - Sentiment analysis model to predict positive or negative restaurant reviews.</li>
+  <li><a href="[https://github.com/Dipanshu22/pokemon_EDA]">Pokemon Dataset Analysis</a> - Descriptive analysis and classification of Legendary Pokemon using Python and Scikit-learn.</li>
 </ul>
 
 <h3 align="left">Connect with Me 📫</h3>
