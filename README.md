@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Dipanshu Gupta</h1>
-<h3 align="center">Data Science Enthusiast | Flutter Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">About Me 🔭</h3>
 <p align="left">I'm a passionate B.Tech Computer Science (Data Science) student with a keen interest in problem-solving, Flutter development, data science, and machine learning. I enjoy building user-friendly mobile applications and exploring insights from data.</p>
